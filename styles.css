@@ -44,3 +44,11 @@ img {
 .links :hover {
     color: rgb(0, 156, 161);
 }
+
+@media only screen and (max-width: 600px){
+    img {
+        width: auto ;
+        max-width: 100% ;
+        height: auto ;
+    }
+}
