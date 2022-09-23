@@ -1,0 +1,46 @@
+body {
+    font-family: Bebas Neue, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+}
+
+h1 {
+margin: 0 auto;
+color: blue;
+padding: 5px;
+}
+
+h2 {
+    margin: 0 auto;
+    color: blue;
+    padding: 5px;
+}
+
+a:visited {
+    color:rgb(77, 77, 243)
+}
+
+figcaption {
+    font-style: italic;
+    padding: 2px 0 2px 2px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin: auto;
+}
+
+
+.links ul {
+    list-style-type: none;
+    padding: 5px;
+    
+}
+
+.links li {
+    padding: 5px;
+}
+
+.links :hover {
+    color: rgb(0, 156, 161);
+}
